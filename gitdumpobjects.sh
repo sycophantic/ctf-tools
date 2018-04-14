@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #This script dumps all the git objects files, useful for CTFs
 #grep the output for the flag or just read it
 
